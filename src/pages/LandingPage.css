@@ -1,0 +1,20 @@
+.landing {
+  background-image: url('https://images.unsplash.com/photo-1587502536263-3fdc74bca3f5');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+  min-height: 80vh;
+}
+.start-button {
+  background-color: #4CAF50;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 1rem;
+  display: inline-block;
+}
